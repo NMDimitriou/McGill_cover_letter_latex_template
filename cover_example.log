@@ -1,0 +1,503 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.2.24)  24 MAR 2023 16:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**cover_example.tex
+(./cover_example.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-07>
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newlfm/newlfm.cls
+Document Class: newlfm 2009/04/10 v9.4 Letter-Fax-Memo LaTeX Document Class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newlfm/setdim.sty
+Package: setdim 2009/04/10 v9.4 Address macros
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip48
+\f@nch@O@elh=\skip49
+\f@nch@O@erh=\skip50
+\f@nch@O@olh=\skip51
+\f@nch@O@orh=\skip52
+\f@nch@O@elf=\skip53
+\f@nch@O@erf=\skip54
+\f@nch@O@olf=\skip55
+\f@nch@O@orf=\skip56
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen140
+\ESO@tempdimb=\dimen141
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lastpage/lastpage.sty
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count185
+\calc@Bcount=\count186
+\calc@Adimen=\dimen142
+\calc@Bdimen=\dimen143
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count187
+\calc@Cskip=\skip59
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen144
+\Gin@req@width=\dimen145
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count188
+\rotFPtop=\skip60
+\rotFPbot=\skip61
+\rot@float@box=\box51
+\rot@mess@toks=\toks17
+)
+\@addr@fr@sk@b=\skip62
+\@addr@fr@sk@a=\skip63
+\@addr@to@sk@b=\skip64
+\@addr@to@sk@a=\skip65
+\@blka@b=\skip66
+\@blka@a=\skip67
+\@blkb@b=\skip68
+\@blkb@a=\skip69
+\@blkc@b=\skip70
+\@blkc@a=\skip71
+\@caption@skip@above=\skip72
+\@caption@skip@below=\skip73
+\@cello@h=\skip74
+\@cello@w=\skip75
+\@cello@d=\skip76
+\@cello@l=\skip77
+\@dt@sk@b=\skip78
+\@dt@sk@a=\skip79
+\@Dth@H@L=\skip80
+\@Dth@H@C=\skip81
+\@Dth@H@R=\skip82
+\@Dth@F@L=\skip83
+\@Dth@F@C=\skip84
+\@Dth@F@R=\skip85
+\@Dth@h@l=\skip86
+\@Dth@h@c=\skip87
+\@Dth@h@r=\skip88
+\@Dth@f@l=\skip89
+\@Dth@f@c=\skip90
+\@Dth@f@r=\skip91
+\@greet@to@sk@b=\skip92
+\@greet@to@sk@a=\skip93
+\@Hgt@Head=\skip94
+\@Hrw=\skip95
+\@hrw=\skip96
+\@extr@hor=\skip97
+\@Frw=\skip98
+\@frw=\skip99
+\@Hgt@Foot=\skip100
+\@Hgt@head=\skip101
+\@Hgt@foot=\skip102
+\@Hgt@H@L=\skip103
+\@Hgt@H@C=\skip104
+\@Hgt@H@R=\skip105
+\@Hgt@F@L=\skip106
+\@Hgt@F@C=\skip107
+\@Hgt@F@R=\skip108
+\@Hgt@h@l=\skip109
+\@Hgt@h@c=\skip110
+\@Hgt@h@r=\skip111
+\@Hgt@f@l=\skip112
+\@Hgt@f@c=\skip113
+\@Hgt@f@r=\skip114
+\@lab@bl=\skip115
+\@lab@pl=\skip116
+\@lab@pw=\skip117
+\@lab@bh=\skip118
+\@lab@bw=\skip119
+\@lab@th=\skip120
+\@lab@lm=\skip121
+\@marg@lt=\skip122
+\@marg@rt=\skip123
+\@marg@tp=\skip124
+\@marg@bt=\skip125
+\@marg@tp@a=\skip126
+\@marg@bt@a=\skip127
+\@marg@bt@b=\skip128
+\@marg@tp@b=\skip129
+\@marg@tp@s=\skip130
+\@marg@lt@r=\skip131
+\@marg@lt@l=\skip132
+\@marg@rt@r=\skip133
+\@marg@rt@l=\skip134
+\@marg@lt@tp@d=\skip135
+\@marg@rt@tp@d=\skip136
+\@Min@Hgt@Head=\skip137
+\@Min@Hgt@head=\skip138
+\@Min@Hgt@Foot=\skip139
+\@Min@Hgt@foot=\skip140
+\@Min@Hgt@Right=\skip141
+\@Min@Hgt@right=\skip142
+\@Min@Hgt@Left=\skip143
+\@Min@Hgt@left=\skip144
+\@Plg=\skip145
+\@Pwd=\skip146
+\@plg=\skip147
+\@pwd=\skip148
+\@post@sig@sp@a=\skip149
+\@post@sig@sp@b=\skip150
+\@pre@memo@sp=\skip151
+\@post@memo@sp=\skip152
+\@sig@sp=\skip153
+\@text@width=\skip154
+\@sig@sk@a=\skip155
+\@sig@sk@b=\skip156
+\@sig@sk@c=\skip157
+\@sig@sk@r=\skip158
+\@cls@sk@a=\skip159
+\@cls@sk@b=\skip160
+\@text@height=\skip161
+\@unpr@tp=\skip162
+\@unpr@bm=\skip163
+\@unpr@rt=\skip164
+\@unpr@lt=\skip165
+\@util=\skip166
+\@utila=\skip167
+\@utilb=\skip168
+\@utilc=\skip169
+\@utild=\skip170
+\@utile=\skip171
+\@utilf=\skip172
+\@utilg=\skip173
+\@utilh=\skip174
+\@utili=\skip175
+\@utilj=\skip176
+\@utilk=\skip177
+\@utill=\skip178
+\@xda=\skip179
+\@xdb=\skip180
+\@xdc=\skip181
+\@xdd=\skip182
+\@xde=\skip183
+\@xdf=\skip184
+\@xdg=\skip185
+\@xdh=\skip186
+\@xdi=\skip187
+\@sig@box@a=\box52
+\b@addr@fr=\box53
+\b@addr@to=\box54
+\@x@c=\box55
+\@x@l=\box56
+\@x@r=\box57
+\fba=\box58
+\adrfr=\box59
+\adrto=\box60
+\@sig@box@b=\box61
+\@sig@box@c=\box62
+\@sig@box@d=\box63
+\@sig@box@e=\box64
+\@sig@box@f=\box65
+\@sig@box@g=\box66
+\@sig@box@h=\box67
+\@sig@box@i=\box68
+\@sig@box@j=\box69
+\@rest@ltr=\box70
+\@resta@ltr=\box71
+\@restb@ltr=\box72
+\@restc@ltr=\box73
+\@restd@ltr=\box74
+\@reste@ltr=\box75
+\c@@c@pos=\count189
+\c@figure=\count190
+\c@table=\count191
+\c@@sig@tot=\count192
+\c@@lab@tot@row=\count193
+\c@@lab@tot@col=\count194
+\c@@lab@cnt@row=\count195
+\c@@lab@cnt@col=\count196
+\@nlfm@addr=\count197
+\@nlfm@util=\count198
+\@nlfm@uta=\count199
+\@nlfm@utb=\count266
+
+All language information must be in newlfm.cls
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/letter.cls
+Document Class: letter 2021/12/07 v1.3c Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\longindentation=\dimen146
+\indentedwidth=\dimen147
+\labelcount=\count267
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/newlfm/addrset.sty
+Package: addrset 2009/04/10 v9.4 Address macros
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/tools/afterpage.sty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks18
+\AP@partial=\box76
+\AP@footins=\box77
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/envlab/envlab.sty
+Package: envlab 1997/07/16 v1.2 Envelopes and Labels
+Package envlab Info: Envelopes & Labels package: found makelabels...
+(envlab)             Seems everything is OK. Good luck. on input line 58.
+\@envelopeposition=\count268
+\PSEnvelopeTray=\toks19
+\EnvelopeWidth=\skip188
+\EnvelopeHeight=\skip189
+\EnvelopeTopMargin=\skip190
+\EnvelopeLeftMargin=\skip191
+\LabelWidth=\skip192
+\LabelHeight=\skip193
+\LabelTopMargin=\skip194
+\LabelLeftMargin=\skip195
+\LabelRightMargin=\skip196
+\c@LabelMaxCol=\count269
+\c@LabelMaxRow=\count270
+\FromAddressTopMargin=\skip197
+\FromAddressLeftMargin=\skip198
+\FromAddressHeight=\skip199
+\FromAddressWidth=\skip256
+\ToAddressTopMargin=\skip257
+\ToAddressLeftMargin=\skip258
+\ToAddressWidth=\skip259
+
+Loading configuration file envlab.cfg
+(/usr/local/texlive/2022/texmf-dist/tex/latex/envlab/envlab.cfg
+File: envlab.cfg 1997/07/16 v1.2 Envelopes and Labels
+)
+\c@LabelCountCol=\count271
+\c@LabelCountRow=\count272
+\c@LabelOffsetCol=\count273
+\c@LabelOffsetRow=\count274
+\@numreturnlabels=\count275
+\@zipcode=\toks20
+\@zipcodesum=\count276
+\@barcodewidth=\skip260
+\@barcodeLheight=\skip261
+\@barcodeSheight=\skip262
+\@barcodeskip=\skip263
+\@addr@cap=\toks21
+)
+The default definition for memosec is used. File memosec.tex doesn't exist.
+Press release definitions stored in newlfm.cls
+faxpage definitions stored in newlfm.cls
+letrinfo.tex\ not found. All letter definitions must be in newlfm.cls
+LaTeX Info: Redefining \@texttop on input line 1884.
+\@rep@th=\dimen148
+\@rep@tw=\dimen149
+\@rep@om=\dimen150
+\@rep@em=\dimen151
+\@rep@cs=\dimen152
+\@rep@tm=\dimen153
+\@rep@hh=\dimen154
+\@rep@hs=\dimen155
+\@rep@fs=\dimen156
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/charter.sty
+Package: charter 2020/03/25 PSNFSS-v9.3 (P.Dyballa) 
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count277
+)
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-07 L3 programming layer (loader) 
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count278
+\l__pdf_internal_box=\box78
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count279
+\l__lipsum_a_int=\count280
+\l__lipsum_b_int=\count281
+(/usr/local/texlive/2022/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/local/texlive/2022/texmf-dist/tex/latex/overpic/overpic.sty
+Package: overpic 2020/02/22 1.3 picture overlays (RN)
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/eepic/epic.sty
+Enhancements to Picture Environment. Version 1.2 - Released June 1, 1986
+\@@multicnt=\count282
+\d@lta=\count283
+\@delta=\dimen157
+\@@delta=\dimen158
+\@gridcnt=\count284
+\@joinkind=\count285
+\@dotgap=\dimen159
+\@ddotgap=\dimen160
+\@x@diff=\count286
+\@y@diff=\count287
+\x@diff=\dimen161
+\y@diff=\dimen162
+\@dotbox=\box79
+\num@segments=\count288
+\num@segmentsi=\count289
+\@datafile=\read2
+)
+\OVP@box=\box80
+)
+\Luiuc=\box81
+<mcgill_sig_red.png, id=1, 166.92363pt x 54.25269pt>
+File: mcgill_sig_red.png Graphic file (type png)
+<use mcgill_sig_red.png>
+Package pdftex.def Info: mcgill_sig_red.png  used on input line 47.
+(pdftex.def)             Requested size: 166.9232pt x 54.25255pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 47.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 47.
+
+Overfull \hbox (344.79114pt too wide) in paragraph at lines 47--47
+[][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 8
+0.
+(/usr/local/texlive/2022/texmf-dist/tex/latex/psnfss/ot1bch.fd
+File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
+)
+
+LaTeX Warning: Unused global option(s):
+    [nofromaddress].
+
+(./cover_example.aux)
+\openout1 = `cover_example.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+
+(/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count290
+\scratchdimen=\dimen163
+\scratchbox=\box82
+\nofMPsegments=\count291
+\nofMParguments=\count292
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count293
+\MPscratchDim=\dimen164
+\MPnumerator=\count294
+\makeMPintoPDFobject=\count295
+\everyMPtoPDFconversion=\toks23
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Package lastpage Info: Please have a look at the pageslts package at
+(lastpage)             https://www.ctan.org/pkg/pageslts
+(lastpage)             ! on input line 80.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 81.
+
+Underfull \hbox (badness 10000) detected at line 81
+         
+ []
+
+[1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./mcgill_sig_red.png
+
+pdfTeX warning: /usr/local/texlive/2022/bin/x86_64-linux/pdflatex (file ./mcgil
+l_sig_red.png): large interlaced PNG might cause out of memory (use non-interla
+ced PNG to fix this)
+>] 
+AED: lastpage setting LastPage
+(./cover_example.aux) ) 
+Here is how much of TeX's memory you used:
+ 5406 strings out of 476029
+ 83670 string characters out of 5790172
+ 1863346 words of memory out of 5000000
+ 25791 multiletter control sequences out of 15000+600000
+ 517339 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,12n,77p,16823b,632s stack positions out of 10000i,1000n,20000p,200000b,200000s
+{/usr/local/texlive/2022/texmf-dist/fonts/enc/dvips/base
+/8r.enc}</usr/local/texlive/2022/texmf-dist/fonts/type1/bitstrea/charter/bchr8a
+.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.p
+fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+
+Output written on cover_example.pdf (1 page, 118651 bytes).
+PDF statistics:
+ 27 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+
